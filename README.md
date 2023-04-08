@@ -14,7 +14,7 @@ Listed below are guidelines that MUST be followed when using our work.
 
 
 ## You CANNOT
-• Use any of our assets in your projects. This includes Music, Art, and Models.
+• Use any of our assets in your projects. This includes Music, Art, and Models. Exceptions may be given by the creators of the work.
 
 • Redistibute any of our projects in their entirety as source or compiled code.
 
